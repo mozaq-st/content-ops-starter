@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Launch
 slug: launch
 sections:
   - title:
