@@ -56,6 +56,7 @@ sections:
       type: TitleBlock
     people:
       - content/data/person6.json
+      - content/data/person5.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
