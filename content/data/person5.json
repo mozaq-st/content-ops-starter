@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Coming Soon",
     "role": "",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "elementId": null,
     "styles": {
         "self": {
