@@ -12,7 +12,7 @@ sections:
     subtitle: lines in motion.
     text: ''
     actions:
-      - label: See open positions
+      - label: Contact
         url: /
         icon: arrowRight
         iconPosition: right
