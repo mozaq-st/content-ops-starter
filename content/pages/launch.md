@@ -69,10 +69,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
