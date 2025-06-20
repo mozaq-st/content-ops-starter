@@ -3,7 +3,7 @@ title: Launch
 slug: launch
 sections:
   - title:
-      text: A team that works closely together
+      text: Coming Soon
       color: text-dark
       styles:
         self:
