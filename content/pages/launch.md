@@ -69,16 +69,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
