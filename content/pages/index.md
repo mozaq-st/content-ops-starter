@@ -25,6 +25,9 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: large
     badge:
       label: lines in motion
       color: text-primary
