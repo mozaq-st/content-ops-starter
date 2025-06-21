@@ -21,10 +21,14 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/hero3.svg
+      url: '/images/ChatGPT Image Jun 20, 2025, 10_59_07 PM.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: large
+          borderWidth: 0
     badge:
       label: lines in motion
       color: text-primary
