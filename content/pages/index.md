@@ -7,7 +7,7 @@ sections:
       text: Coming Soon
       color: text-dark
       type: TitleBlock
-    subtitle: lines in motion
+    subtitle: New Studio in launching...
     text: |
       New Studio in launching...
     actions:
