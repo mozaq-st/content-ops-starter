@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Launch",
-                "altText": "careers page",
+                "altText": "launch page",
                 "url": "/launch",
                 "icon": "arrowRight",
                 "iconPosition": "right",
