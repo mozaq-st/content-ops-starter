@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/",
+            "url": "/launch",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
