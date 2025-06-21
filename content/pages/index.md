@@ -28,6 +28,7 @@ sections:
       styles:
         self:
           borderRadius: large
+          borderWidth: 8
     badge:
       label: lines in motion
       color: text-primary
