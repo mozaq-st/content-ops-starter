@@ -11,7 +11,7 @@ sections:
     text: |
       New Studio in launching...
     actions:
-      - label: Get started
+      - label: Contact
         altText: ''
         url: /
         showIcon: false
