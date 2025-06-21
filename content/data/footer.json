@@ -9,7 +9,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Launch",
                 "altText": "careers page",
                 "url": "/launch",
                 "icon": "arrowRight",
