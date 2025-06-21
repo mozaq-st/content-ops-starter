@@ -15,11 +15,19 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/launch",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Launch",
+            "url": "/launch",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         }
     ],
     "secondaryLinks": [

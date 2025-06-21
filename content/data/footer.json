@@ -9,9 +9,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Launch",
+                "altText": "launch page",
+                "url": "/launch",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
