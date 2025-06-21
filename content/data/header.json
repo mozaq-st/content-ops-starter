@@ -10,7 +10,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/logo-dark.svg"
     },
     "primaryLinks": [
         {
