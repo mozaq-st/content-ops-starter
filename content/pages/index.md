@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Contact
         altText: ''
-        url: /
+        url: 'https://www.linkedin.com/in/moazzan/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
