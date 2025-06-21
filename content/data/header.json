@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "Home",
+            "label": "Launch",
             "url": "/launch",
             "icon": "arrowRight",
             "iconPosition": "right",
