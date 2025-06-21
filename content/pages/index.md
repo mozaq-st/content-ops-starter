@@ -28,7 +28,7 @@ sections:
       styles:
         self:
           borderRadius: large
-          borderWidth: 8
+          borderWidth: 0
     badge:
       label: lines in motion
       color: text-primary
